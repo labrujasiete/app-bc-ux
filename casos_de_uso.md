@@ -1,4 +1,5 @@
-<button href="https://github.com/labrujasiete/app-bc-ux/blob/main/readme.md" style="font-weight: 500; font-size: 16px; padding: 10px 20px; border-radius: 9px; border: none; color: #313131">Reporte UX</button>
+
+[ 📋 Reporte UX 👈 ](https://github.com/labrujasiete/app-bc-ux/blob/main/readme.md)
 
 # 📄 Casos de Uso – AppBC
 
