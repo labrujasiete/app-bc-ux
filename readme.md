@@ -1,3 +1,6 @@
+<button href="https://github.com/labrujasiete/app-bc-ux/blob/main/casos_de_uso.md" style="font-weight: 500; font-size: 16px; padding: 10px 20px; border-radius: 9px; border: none; color: #313131">Casos de uso</button>
+
+
 # Reporte UX – AppBC
 
 ## 🎯 1. Resumen Ejecutivo
